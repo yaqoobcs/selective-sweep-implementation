@@ -38,7 +38,7 @@ pip install numpy pandas matplotlib seaborn scipy jupyter
 
 Clone the repository
 ```
-git clone https://github.com/your-username/selective-sweep-analysis.git
+git clone https://github.com/yaqoobcs/selective-sweep-implementation.git
 cd selective-sweep-analysis
 ```
 Open the Notebook
